@@ -1,0 +1,43 @@
+# 常用开发工具
+git
+gh
+#nodejs
+nvm
+python310
+go
+#rust
+
+
+# 文本编辑器
+vim
+neovim
+#nano
+vscode
+
+# 系统工具
+wget
+aria2
+curl
+7zip
+grep
+sudo
+fd
+nssm
+
+# 开发工具
+make
+cmake
+gcc
+llvm
+binutils
+
+# 其他工具
+ffmpeg
+imagemagick
+
+
+# 应用软件
+wechat
+notion
+zotero
+vscode
